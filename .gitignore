@@ -1,0 +1,15 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# CSVs e datasets gerados
+datasets/
+*.csv
+
+# Configurações locais do Mac
+.DS_Store
