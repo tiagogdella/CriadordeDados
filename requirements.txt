@@ -11,3 +11,4 @@ flask
 pandas
 numpy
 faker
+gunicorn
