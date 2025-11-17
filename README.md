@@ -4,25 +4,25 @@ Um gerador de dados sintéticos para educação, RH e vendas, criado para facili
 
 📚 Índice
 
-Sobre o Projeto
+1 Sobre o Projeto
 
-Começando
+2 Começando
 
-Pré-requisitos
+- Pré-requisitos
 
-Instalação
+- Instalação
 
-Executando
+- Executando
 
-Exemplo de Uso
+3 Exemplo de Uso
 
-Status do Projeto
+4 Status do Projeto
 
-Como Contribuir
+5 Como Contribuir
 
-Licença
+6 Licença
 
-Contato
+7 Contato
 
 🚀 1. Sobre o Projeto
 
@@ -121,25 +121,25 @@ A synthetic data generator for education, HR, and sales. It allows users to choo
 
 📚 Table of Contents
 
-About the Project
+1 About the Project
 
-Getting Started
+2 Getting Started
 
-Prerequisites
+ - Prerequisites
 
-Installation
+ - Installation
 
-Running
+ - Running
 
-Usage Example
+3 Usage Example
 
-Project Status
+4 Project Status
 
-Contributing
+5 Contributing
 
-License
+6 License
 
-Contact
+7 Contact
 
 🚀 1. About the Project
 
