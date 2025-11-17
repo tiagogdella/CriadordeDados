@@ -1,7 +1,8 @@
 from Geradores_de_Dados.educacao import gerar_dados_educacao
 from Geradores_de_Dados.vendas import gerar_dados_vendas
 from Geradores_de_Dados.rh import gerar_dados_rh
-from utils import salvar_csv
+from utils import salvar_csv, salvar_excel
+from escolherFormato import escolher_formato
 
 def menu():
     while True:
@@ -27,13 +28,15 @@ def menu():
                 nome = "rh"
 
             print(df.head())
-            salvar_csv(df, f"{nome}_{qtd}_linhas")
+            escolher_formato(df, f"{nome}_{qtd}_linhas")
+
 
         elif opcao == "0":
             print("Saindo... 👋")
             break
         else:
             print("❌ Opção inválida!")
+
 
 if __name__ == "__main__":
     menu()
